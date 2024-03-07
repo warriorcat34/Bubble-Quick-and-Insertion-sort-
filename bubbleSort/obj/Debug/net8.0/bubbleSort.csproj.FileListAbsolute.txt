@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.exe
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.deps.json
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.dll
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\bin\Debug\net8.0\bubbleSort.pdb
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.dll
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\refint\bubbleSort.dll
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.pdb
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\bubbleSort.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\bubbleSort\bubbleSort\obj\Debug\net8.0\ref\bubbleSort.dll
